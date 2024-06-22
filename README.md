@@ -1,2 +1,17 @@
-# MITx_6.00.1x-Introduction_to_Computer_Science_and_Programming_Using_Python
-This repository contains solutions to exercises and problem sets of "MITx 6.00.1x Introduction to Computer Science and Programming Using Python" course on edX
+**Unit 1**: Python Basics
+
+1. Introduction to Python
+
+2. Core Elements of Programs
+
+**Unit 2**: Simple Programs
+
+3. Simple Algorithms
+
+4. Functions
+
+**Unit 3**: Structured Types
+
+5. Tuples and Lists
+
+6. Dictionaries
