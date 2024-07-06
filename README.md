@@ -15,3 +15,9 @@
 5. Tuples and Lists
 
 6. Dictionaries
+
+**Unit 4**: Good Programming Practices
+
+7. Testing and Debugging
+
+8. Exceptions and Assertions
