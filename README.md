@@ -21,3 +21,9 @@
 7. Testing and Debugging
 
 8. Exceptions and Assertions
+
+**Unit 5**: Object Oriented Programming
+
+9. Classes and Inheritance
+
+10. An Extended Example
